@@ -1,0 +1,15 @@
+{
+  "name": "registrar-student-performance",
+  "version": "1.0.0",
+  "description": "Full-stack Student Performance Analysis — Express + node:sqlite + REST API + embedded dashboard, all in one file.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
